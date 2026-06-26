@@ -1,2 +1,3 @@
 # Financial Models
-This respository will contain random finance related work i've conducted from DCF models of stocks i'm interested in to analyses of fund strategies.
+
+This repository contains finance-related analysis and modelling work, including fund strategy analysis, equity research, and stock valuation projects.
